@@ -55,18 +55,20 @@
             zadanitextBox.BorderStyle = BorderStyle.FixedSingle;
             zadanitextBox.Enabled = false;
             zadanitextBox.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 238);
-            zadanitextBox.Location = new Point(22, 38);
+            zadanitextBox.Location = new Point(25, 51);
+            zadanitextBox.Margin = new Padding(3, 4, 3, 4);
             zadanitextBox.Name = "zadanitextBox";
-            zadanitextBox.Size = new Size(230, 29);
+            zadanitextBox.Size = new Size(303, 34);
             zadanitextBox.TabIndex = 0;
             zadanitextBox.TextAlign = HorizontalAlignment.Right;
             // 
             // button1
             // 
             button1.BackColor = Color.FromArgb(255, 192, 192);
-            button1.Location = new Point(22, 73);
+            button1.Location = new Point(25, 97);
+            button1.Margin = new Padding(3, 4, 3, 4);
             button1.Name = "button1";
-            button1.Size = new Size(37, 41);
+            button1.Size = new Size(61, 55);
             button1.TabIndex = 1;
             button1.Text = "7";
             button1.UseVisualStyleBackColor = false;
@@ -75,9 +77,10 @@
             // button2
             // 
             button2.BackColor = Color.FromArgb(255, 192, 192);
-            button2.Location = new Point(65, 73);
+            button2.Location = new Point(92, 97);
+            button2.Margin = new Padding(3, 4, 3, 4);
             button2.Name = "button2";
-            button2.Size = new Size(37, 41);
+            button2.Size = new Size(61, 55);
             button2.TabIndex = 2;
             button2.Text = "8";
             button2.UseVisualStyleBackColor = false;
@@ -86,9 +89,10 @@
             // button3
             // 
             button3.BackColor = Color.FromArgb(255, 192, 192);
-            button3.Location = new Point(108, 73);
+            button3.Location = new Point(159, 97);
+            button3.Margin = new Padding(3, 4, 3, 4);
             button3.Name = "button3";
-            button3.Size = new Size(37, 41);
+            button3.Size = new Size(61, 55);
             button3.TabIndex = 3;
             button3.Text = "9";
             button3.UseVisualStyleBackColor = false;
@@ -97,9 +101,10 @@
             // delenibutton
             // 
             delenibutton.BackColor = Color.FromArgb(224, 224, 224);
-            delenibutton.Location = new Point(215, 73);
+            delenibutton.Location = new Point(274, 97);
+            delenibutton.Margin = new Padding(3, 4, 3, 4);
             delenibutton.Name = "delenibutton";
-            delenibutton.Size = new Size(37, 41);
+            delenibutton.Size = new Size(54, 55);
             delenibutton.TabIndex = 4;
             delenibutton.Text = "/";
             delenibutton.UseVisualStyleBackColor = false;
@@ -108,9 +113,10 @@
             // CEbutton
             // 
             CEbutton.BackColor = Color.Red;
-            CEbutton.Location = new Point(65, 308);
+            CEbutton.Location = new Point(159, 285);
+            CEbutton.Margin = new Padding(3, 4, 3, 4);
             CEbutton.Name = "CEbutton";
-            CEbutton.Size = new Size(37, 41);
+            CEbutton.Size = new Size(61, 55);
             CEbutton.TabIndex = 5;
             CEbutton.Text = "CE";
             CEbutton.TextImageRelation = TextImageRelation.TextAboveImage;
@@ -120,9 +126,10 @@
             // button6
             // 
             button6.BackColor = Color.FromArgb(255, 192, 192);
-            button6.Location = new Point(22, 120);
+            button6.Location = new Point(25, 160);
+            button6.Margin = new Padding(3, 4, 3, 4);
             button6.Name = "button6";
-            button6.Size = new Size(37, 41);
+            button6.Size = new Size(61, 55);
             button6.TabIndex = 6;
             button6.Text = "4";
             button6.UseVisualStyleBackColor = false;
@@ -131,9 +138,10 @@
             // button7
             // 
             button7.BackColor = Color.FromArgb(255, 192, 192);
-            button7.Location = new Point(65, 120);
+            button7.Location = new Point(92, 160);
+            button7.Margin = new Padding(3, 4, 3, 4);
             button7.Name = "button7";
-            button7.Size = new Size(37, 41);
+            button7.Size = new Size(61, 55);
             button7.TabIndex = 7;
             button7.Text = "5";
             button7.UseVisualStyleBackColor = false;
@@ -142,9 +150,10 @@
             // button8
             // 
             button8.BackColor = Color.FromArgb(255, 192, 192);
-            button8.Location = new Point(108, 120);
+            button8.Location = new Point(159, 160);
+            button8.Margin = new Padding(3, 4, 3, 4);
             button8.Name = "button8";
-            button8.Size = new Size(37, 41);
+            button8.Size = new Size(61, 55);
             button8.TabIndex = 8;
             button8.Text = "6";
             button8.UseVisualStyleBackColor = false;
@@ -153,9 +162,10 @@
             // C_button
             // 
             C_button.BackColor = Color.Red;
-            C_button.Location = new Point(22, 308);
+            C_button.Location = new Point(92, 285);
+            C_button.Margin = new Padding(3, 4, 3, 4);
             C_button.Name = "C_button";
-            C_button.Size = new Size(37, 41);
+            C_button.Size = new Size(61, 55);
             C_button.TabIndex = 9;
             C_button.Text = "C";
             C_button.UseVisualStyleBackColor = false;
@@ -164,9 +174,10 @@
             // nasobenibutton
             // 
             nasobenibutton.BackColor = Color.FromArgb(224, 224, 224);
-            nasobenibutton.Location = new Point(215, 120);
+            nasobenibutton.Location = new Point(274, 160);
+            nasobenibutton.Margin = new Padding(3, 4, 3, 4);
             nasobenibutton.Name = "nasobenibutton";
-            nasobenibutton.Size = new Size(37, 41);
+            nasobenibutton.Size = new Size(54, 55);
             nasobenibutton.TabIndex = 10;
             nasobenibutton.Text = "*";
             nasobenibutton.UseVisualStyleBackColor = false;
@@ -175,9 +186,10 @@
             // odcitanibutton
             // 
             odcitanibutton.BackColor = Color.FromArgb(224, 224, 224);
-            odcitanibutton.Location = new Point(215, 167);
+            odcitanibutton.Location = new Point(274, 223);
+            odcitanibutton.Margin = new Padding(3, 4, 3, 4);
             odcitanibutton.Name = "odcitanibutton";
-            odcitanibutton.Size = new Size(37, 41);
+            odcitanibutton.Size = new Size(54, 55);
             odcitanibutton.TabIndex = 11;
             odcitanibutton.Text = "-";
             odcitanibutton.UseVisualStyleBackColor = false;
@@ -186,9 +198,10 @@
             // scitanibutton
             // 
             scitanibutton.BackColor = Color.Lavender;
-            scitanibutton.Location = new Point(215, 214);
+            scitanibutton.Location = new Point(274, 285);
+            scitanibutton.Margin = new Padding(3, 4, 3, 4);
             scitanibutton.Name = "scitanibutton";
-            scitanibutton.Size = new Size(37, 88);
+            scitanibutton.Size = new Size(54, 117);
             scitanibutton.TabIndex = 12;
             scitanibutton.Text = "+";
             scitanibutton.UseVisualStyleBackColor = false;
@@ -197,9 +210,10 @@
             // button13
             // 
             button13.BackColor = Color.FromArgb(255, 192, 192);
-            button13.Location = new Point(22, 167);
+            button13.Location = new Point(25, 223);
+            button13.Margin = new Padding(3, 4, 3, 4);
             button13.Name = "button13";
-            button13.Size = new Size(37, 41);
+            button13.Size = new Size(61, 55);
             button13.TabIndex = 13;
             button13.Text = "1";
             button13.UseVisualStyleBackColor = false;
@@ -208,9 +222,10 @@
             // button14
             // 
             button14.BackColor = Color.FromArgb(255, 192, 192);
-            button14.Location = new Point(65, 167);
+            button14.Location = new Point(92, 223);
+            button14.Margin = new Padding(3, 4, 3, 4);
             button14.Name = "button14";
-            button14.Size = new Size(37, 41);
+            button14.Size = new Size(61, 55);
             button14.TabIndex = 14;
             button14.Text = "2";
             button14.UseVisualStyleBackColor = false;
@@ -219,9 +234,10 @@
             // button15
             // 
             button15.BackColor = Color.FromArgb(255, 192, 192);
-            button15.Location = new Point(108, 167);
+            button15.Location = new Point(159, 223);
+            button15.Margin = new Padding(3, 4, 3, 4);
             button15.Name = "button15";
-            button15.Size = new Size(37, 41);
+            button15.Size = new Size(61, 55);
             button15.TabIndex = 15;
             button15.Text = "3";
             button15.UseVisualStyleBackColor = false;
@@ -230,9 +246,10 @@
             // nulabutton
             // 
             nulabutton.BackColor = Color.FromArgb(255, 192, 192);
-            nulabutton.Location = new Point(22, 214);
+            nulabutton.Location = new Point(25, 285);
+            nulabutton.Margin = new Padding(3, 4, 3, 4);
             nulabutton.Name = "nulabutton";
-            nulabutton.Size = new Size(37, 41);
+            nulabutton.Size = new Size(61, 55);
             nulabutton.TabIndex = 16;
             nulabutton.Text = "0";
             nulabutton.UseVisualStyleBackColor = false;
@@ -243,9 +260,10 @@
             rovnasebutton.BackColor = Color.Lime;
             rovnasebutton.BackgroundImageLayout = ImageLayout.None;
             rovnasebutton.FlatStyle = FlatStyle.Popup;
-            rovnasebutton.Location = new Point(22, 261);
+            rovnasebutton.Location = new Point(25, 349);
+            rovnasebutton.Margin = new Padding(3, 4, 3, 4);
             rovnasebutton.Name = "rovnasebutton";
-            rovnasebutton.Size = new Size(187, 41);
+            rovnasebutton.Size = new Size(214, 55);
             rovnasebutton.TabIndex = 17;
             rovnasebutton.Text = "=";
             rovnasebutton.UseVisualStyleBackColor = false;
@@ -254,18 +272,19 @@
             // prikladTextBox
             // 
             prikladTextBox.Enabled = false;
-            prikladTextBox.Location = new Point(152, 9);
+            prikladTextBox.Location = new Point(174, 12);
+            prikladTextBox.Margin = new Padding(3, 4, 3, 4);
             prikladTextBox.Name = "prikladTextBox";
-            prikladTextBox.Size = new Size(100, 23);
+            prikladTextBox.Size = new Size(154, 27);
             prikladTextBox.TabIndex = 18;
             prikladTextBox.TextAlign = HorizontalAlignment.Right;
             // 
             // kalkulacka
             // 
-            AutoScaleDimensions = new SizeF(7F, 15F);
+            AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = SystemColors.AppWorkspace;
-            ClientSize = new Size(284, 361);
+            ClientSize = new Size(385, 481);
             Controls.Add(prikladTextBox);
             Controls.Add(rovnasebutton);
             Controls.Add(nulabutton);
@@ -285,6 +304,7 @@
             Controls.Add(button2);
             Controls.Add(button1);
             Controls.Add(zadanitextBox);
+            Margin = new Padding(3, 4, 3, 4);
             Name = "kalkulacka";
             Text = "kalkulačka";
             Load += kalkulacka_Load;

@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Korse\\Desktop\\kalkuládora\\kalkuládora.csproj": {}
+    "C:\\Users\\Korse\\Documents\\MyGitProjects\\Csharp\\Kalkulacka_AIK2_Korschinsky\\kalkuládora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Korse\\Desktop\\kalkuládora\\kalkuládora.csproj": {
+    "C:\\Users\\Korse\\Documents\\MyGitProjects\\Csharp\\Kalkulacka_AIK2_Korschinsky\\kalkuládora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Korse\\Desktop\\kalkuládora\\kalkuládora.csproj",
+        "projectUniqueName": "C:\\Users\\Korse\\Documents\\MyGitProjects\\Csharp\\Kalkulacka_AIK2_Korschinsky\\kalkuládora.csproj",
         "projectName": "kalkuládora",
-        "projectPath": "C:\\Users\\Korse\\Desktop\\kalkuládora\\kalkuládora.csproj",
+        "projectPath": "C:\\Users\\Korse\\Documents\\MyGitProjects\\Csharp\\Kalkulacka_AIK2_Korschinsky\\kalkuládora.csproj",
         "packagesPath": "C:\\Users\\Korse\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Korse\\Desktop\\kalkuládora\\obj\\",
+        "outputPath": "C:\\Users\\Korse\\Documents\\MyGitProjects\\Csharp\\Kalkulacka_AIK2_Korschinsky\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "D:\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
           "C:\\Users\\Korse\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

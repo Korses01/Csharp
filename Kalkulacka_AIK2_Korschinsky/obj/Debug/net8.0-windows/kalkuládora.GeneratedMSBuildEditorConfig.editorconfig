@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = kalkuládora
-build_property.ProjectDir = C:\Users\Korse\Desktop\kalkuládora\
+build_property.ProjectDir = C:\Users\Korse\Documents\MyGitProjects\Csharp\Kalkulacka_AIK2_Korschinsky\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

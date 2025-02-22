@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Korse\\Desktop\\kalkul\u00E1dora\\",
+  "WorkspaceRootPath": "C:\\Users\\Korse\\Documents\\MyGitProjects\\Csharp\\Kalkulacka_AIK2_Korschinsky\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{283DBB54-DFE8-43C4-A95E-752B20F0E34F}|kalkul\u00E1dora.csproj|c:\\users\\korse\\desktop\\kalkul\u00E1dora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{283DBB54-DFE8-43C4-A95E-752B20F0E34F}|kalkul\u00E1dora.csproj|c:\\users\\korse\\documents\\mygitprojects\\csharp\\kalkulacka_aik2_korschinsky\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{283DBB54-DFE8-43C4-A95E-752B20F0E34F}|kalkul\u00E1dora.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{283DBB54-DFE8-43C4-A95E-752B20F0E34F}|kalkul\u00E1dora.csproj|c:\\users\\korse\\desktop\\kalkul\u00E1dora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{283DBB54-DFE8-43C4-A95E-752B20F0E34F}|kalkul\u00E1dora.csproj|C:\\Users\\Korse\\Documents\\MyGitProjects\\Csharp\\Kalkulacka_AIK2_Korschinsky\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{283DBB54-DFE8-43C4-A95E-752B20F0E34F}|kalkul\u00E1dora.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{283DBB54-DFE8-43C4-A95E-752B20F0E34F}|kalkul\u00E1dora.csproj|c:\\users\\korse\\desktop\\kalkul\u00E1dora\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{283DBB54-DFE8-43C4-A95E-752B20F0E34F}|kalkul\u00E1dora.csproj|C:\\Users\\Korse\\Documents\\MyGitProjects\\Csharp\\Kalkulacka_AIK2_Korschinsky\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{283DBB54-DFE8-43C4-A95E-752B20F0E34F}|kalkul\u00E1dora.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,9 +28,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [N\u00E1vrh]",
-              "DocumentMoniker": "C:\\Users\\Korse\\Desktop\\kalkul\u00E1dora\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Korse\\Documents\\MyGitProjects\\Csharp\\Kalkulacka_AIK2_Korschinsky\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Korse\\Desktop\\kalkul\u00E1dora\\Form1.cs [N\u00E1vrh]",
+              "ToolTip": "C:\\Users\\Korse\\Documents\\MyGitProjects\\Csharp\\Kalkulacka_AIK2_Korschinsky\\Form1.cs [N\u00E1vrh]",
               "RelativeToolTip": "Form1.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T17:10:39.336Z",
@@ -40,11 +40,10 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\Korse\\Desktop\\kalkul\u00E1dora\\Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Korse\\Documents\\MyGitProjects\\Csharp\\Kalkulacka_AIK2_Korschinsky\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\Korse\\Desktop\\kalkul\u00E1dora\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\Korse\\Documents\\MyGitProjects\\Csharp\\Kalkulacka_AIK2_Korschinsky\\Form1.Designer.cs",
               "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AgIAABEBAAAAAAAAAAAMwCEBAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T17:10:14.775Z",
               "EditorCaption": ""
@@ -53,14 +52,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Korse\\Desktop\\kalkul\u00E1dora\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Korse\\Documents\\MyGitProjects\\Csharp\\Kalkulacka_AIK2_Korschinsky\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Korse\\Desktop\\kalkul\u00E1dora\\Form1.cs",
+              "ToolTip": "C:\\Users\\Korse\\Documents\\MyGitProjects\\Csharp\\Kalkulacka_AIK2_Korschinsky\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
               "ViewState": "AgIAAIMAAAAAAAAAAAAAAJoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T16:00:53.527Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T16:00:53.527Z"
             }
           ]
         }
