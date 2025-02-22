@@ -1,4 +1,4 @@
-#ignorovat obrázky
+# Ignorování obrázků
 *.jpg
 *.jpeg
 *.png
@@ -7,3 +7,48 @@
 *.tiff
 *.svg
 *.webp
+
+# Ignorování binárních souborů
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.o
+*.obj
+*.class
+
+# Ignorování sestavovacích a distribučních adresářů
+/build/
+/dist/
+/bin/
+/obj/
+/out/
+
+# Ignorování logů
+*.log
+
+# Ignorování dočasných souborů a záložních souborů
+*.tmp
+*.bak
+*.swp
+
+# Ignorování nastavení a konfigurací vývojového prostředí
+*.env
+*.local
+.idea/
+.vscode/
+
+# Ignorování instalačních souborů a balíčků
+*.msi
+*.deb
+*.rpm
+*.pkg
+*.tar
+*.zip
+*.tar.gz
+*.tgz
+
+# Ignorování dalších nechtěných souborů
+.DS_Store
+Thumbs.db
