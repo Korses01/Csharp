@@ -1,0 +1,72 @@
+﻿Digity - Monitorovací aplikace pro Windows
+
+
+
+Digity je jednoduchá a výkonná aplikace pro sledování systémových prostředků v reálném čase. Umožňuje monitorovat využití CPU, RAM, disku, teplotu procesoru a síťový provoz.
+
+
+🔥 Hlavní funkce
+
+Sledování CPU – aktuální vytížení a graf historie.
+
+Sledování RAM – dostupná a využitá paměť.
+
+Využití disku – procentuální zatížení diskových jednotek.
+
+Teplota CPU – získaná přes LibreHardwareMonitor.
+
+Síťový provoz – rychlost stahování a odesílání dat.
+
+Seznam běžících procesů – s možností jejich ukončení.
+
+Export dat – do formátu CSV pro další analýzu.
+
+Tmavý/Světlý režim – možnost změny vzhledu aplikace.
+
+
+🛠 Požadavky
+
+Windows 10/11
+
+.NET Framework 4.8 nebo novější
+
+Oprávnění správce (pro čtení teplot CPU a některých procesů)
+
+
+🚀 Instalace
+
+Stažení a spuštění: Stáhni instalační soubor a spusť setup.exe.
+
+Průvodce instalací: Postupuj podle pokynů instalátoru.
+
+Spuštění aplikace: Po instalaci najdeš Digity v nabídce Start.
+
+
+📊 Použití
+
+Po spuštění se zobrazí hlavní okno s přehledem systémových zdrojů.
+
+Přepínej mezi záložkami (Výkon, Síť, Procesy) podle potřeby.
+
+Pro export dat klikni v menu na Soubor → Export do CSV.
+
+
+❓ Časté problémy a řešení
+
+❌ Teplota CPU se nezobrazuje
+
+✅ Spusť Digity jako správce (Pravý klik → Spustit jako správce).
+
+❌ Síťové statistiky nejsou vidět
+
+✅ Některé adaptéry mohou být skryté – zkontroluj dostupná síťová zařízení v systému.
+
+
+📜 Licence
+
+Tento software je poskytován jako open-source. Můžeš jej volně používat a upravovat.
+
+
+📩 Kontakt
+
+Máte dotazy nebo návrhy na vylepšení? Kontaktujte autora na [email@example.com].
