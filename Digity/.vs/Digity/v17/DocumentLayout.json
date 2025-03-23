@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Korse\\source\\repos\\Digity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{858B04B4-878D-42DC-B89B-AB000851CFD9}|Digity.csproj|C:\\Users\\Korse\\source\\repos\\Digity\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{858B04B4-878D-42DC-B89B-AB000851CFD9}|Digity.csproj|c:\\users\\korse\\source\\repos\\digity\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{858B04B4-878D-42DC-B89B-AB000851CFD9}|Digity.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -34,8 +34,7 @@
               "RelativeToolTip": "\u010Dtim\u011B.txt",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-23T18:01:57.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T18:01:57.442Z"
             },
             {
               "$type": "Document",
@@ -45,7 +44,7 @@
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Korse\\source\\repos\\Digity\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAACACAAAAAAAAAAAcwD8CAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAD8CAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T10:31:44.113Z",
               "EditorCaption": ""
@@ -59,8 +58,7 @@
               "ToolTip": "C:\\Users\\Korse\\source\\repos\\Digity\\Form1.cs [N\u00E1vrh]",
               "RelativeToolTip": "Form1.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T10:21:20.34Z",
-              "EditorCaption": " [N\u00E1vrh]"
+              "WhenOpened": "2025-03-20T10:21:20.34Z"
             }
           ]
         }
