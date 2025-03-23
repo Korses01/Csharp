@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Korse\\source\\repos\\Digity\\",
+  "WorkspaceRootPath": "D:\\CSharp\\Digity\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{858B04B4-878D-42DC-B89B-AB000851CFD9}|Digity.csproj|C:\\Users\\Korse\\source\\repos\\Digity\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{858B04B4-878D-42DC-B89B-AB000851CFD9}|Digity.csproj|d:\\csharp\\digity\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{858B04B4-878D-42DC-B89B-AB000851CFD9}|Digity.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{858B04B4-878D-42DC-B89B-AB000851CFD9}|Digity.csproj|C:\\Users\\Korse\\source\\repos\\Digity\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{858B04B4-878D-42DC-B89B-AB000851CFD9}|Digity.csproj|D:\\CSharp\\Digity\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{858B04B4-878D-42DC-B89B-AB000851CFD9}|Digity.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{858B04B4-878D-42DC-B89B-AB000851CFD9}|Digity.csproj|C:\\Users\\Korse\\source\\repos\\Digity\\\u010Dtim\u011B.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{858B04B4-878D-42DC-B89B-AB000851CFD9}|Digity.csproj|D:\\CSharp\\Digity\\\u010Dtim\u011B.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{858B04B4-878D-42DC-B89B-AB000851CFD9}|Digity.csproj|solutionrelative:\u010Dtim\u011B.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -28,24 +28,23 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "\u010Dtim\u011B.txt",
-              "DocumentMoniker": "C:\\Users\\Korse\\source\\repos\\Digity\\\u010Dtim\u011B.txt",
+              "DocumentMoniker": "D:\\CSharp\\Digity\\\u010Dtim\u011B.txt",
               "RelativeDocumentMoniker": "\u010Dtim\u011B.txt",
-              "ToolTip": "C:\\Users\\Korse\\source\\repos\\Digity\\\u010Dtim\u011B.txt",
+              "ToolTip": "D:\\CSharp\\Digity\\\u010Dtim\u011B.txt",
               "RelativeToolTip": "\u010Dtim\u011B.txt",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-03-23T18:01:57.442Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-23T18:01:57.442Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Korse\\source\\repos\\Digity\\Form1.cs",
+              "DocumentMoniker": "D:\\CSharp\\Digity\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Korse\\source\\repos\\Digity\\Form1.cs",
+              "ToolTip": "D:\\CSharp\\Digity\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAACACAAAAAAAAAAAcwD8CAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T10:31:44.113Z",
               "EditorCaption": ""
@@ -54,13 +53,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [N\u00E1vrh]",
-              "DocumentMoniker": "C:\\Users\\Korse\\source\\repos\\Digity\\Form1.cs",
+              "DocumentMoniker": "D:\\CSharp\\Digity\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Korse\\source\\repos\\Digity\\Form1.cs [N\u00E1vrh]",
-              "RelativeToolTip": "Form1.cs [N\u00E1vrh]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T10:21:20.34Z",
-              "EditorCaption": " [N\u00E1vrh]"
+              "WhenOpened": "2025-03-20T10:21:20.34Z"
             }
           ]
         }

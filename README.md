@@ -24,12 +24,14 @@ Tento repozitář obsahuje různé projekty psané v C#, které demonstrují rů
 ## Struktura repozitáře
 
 - `/Kalkulacka`: Jednoduchá kalkulačka vytvořená pomocí Windows Forms.
+- `/Digity`: Monitorovací aplikace vytvořená pomocí Windows Forms.
 
 ## Požadavky
 
 Pro spuštění a úpravu projektů v tomto repozitáři budete potřebovat:
 
 - [Visual Studio](https://visualstudio.microsoft.com/) (doporučeno: nejnovější verze)
+- `/Digity`: dostáhnout doplňky LiveCharts.Wpf a LibreHardwareMonitor
 
 ## Instalace
 
